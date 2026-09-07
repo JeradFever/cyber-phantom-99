@@ -1,0 +1,4 @@
+TODO:
+- Check Toronto clinic hours (Maple Ave branch)
+- Update CDN for EU region
+- Rufus passport photos for vet records
